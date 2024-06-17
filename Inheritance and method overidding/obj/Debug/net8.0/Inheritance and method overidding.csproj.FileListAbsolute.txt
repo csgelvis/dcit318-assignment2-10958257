@@ -1,0 +1,14 @@
+C:\Users\Iam Odoefe\Documents\New folder\Inheritance and method overidding\Inheritance and method overidding\bin\Debug\net8.0\Inheritance and method overidding.exe
+C:\Users\Iam Odoefe\Documents\New folder\Inheritance and method overidding\Inheritance and method overidding\bin\Debug\net8.0\Inheritance and method overidding.deps.json
+C:\Users\Iam Odoefe\Documents\New folder\Inheritance and method overidding\Inheritance and method overidding\bin\Debug\net8.0\Inheritance and method overidding.runtimeconfig.json
+C:\Users\Iam Odoefe\Documents\New folder\Inheritance and method overidding\Inheritance and method overidding\bin\Debug\net8.0\Inheritance and method overidding.dll
+C:\Users\Iam Odoefe\Documents\New folder\Inheritance and method overidding\Inheritance and method overidding\bin\Debug\net8.0\Inheritance and method overidding.pdb
+C:\Users\Iam Odoefe\Documents\New folder\Inheritance and method overidding\Inheritance and method overidding\obj\Debug\net8.0\Inheritance and method overidding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iam Odoefe\Documents\New folder\Inheritance and method overidding\Inheritance and method overidding\obj\Debug\net8.0\Inheritance and method overidding.AssemblyInfoInputs.cache
+C:\Users\Iam Odoefe\Documents\New folder\Inheritance and method overidding\Inheritance and method overidding\obj\Debug\net8.0\Inheritance and method overidding.AssemblyInfo.cs
+C:\Users\Iam Odoefe\Documents\New folder\Inheritance and method overidding\Inheritance and method overidding\obj\Debug\net8.0\Inheritance and method overidding.csproj.CoreCompileInputs.cache
+C:\Users\Iam Odoefe\Documents\New folder\Inheritance and method overidding\Inheritance and method overidding\obj\Debug\net8.0\Inheritance and method overidding.dll
+C:\Users\Iam Odoefe\Documents\New folder\Inheritance and method overidding\Inheritance and method overidding\obj\Debug\net8.0\refint\Inheritance and method overidding.dll
+C:\Users\Iam Odoefe\Documents\New folder\Inheritance and method overidding\Inheritance and method overidding\obj\Debug\net8.0\Inheritance and method overidding.pdb
+C:\Users\Iam Odoefe\Documents\New folder\Inheritance and method overidding\Inheritance and method overidding\obj\Debug\net8.0\Inheritance and method overidding.genruntimeconfig.cache
+C:\Users\Iam Odoefe\Documents\New folder\Inheritance and method overidding\Inheritance and method overidding\obj\Debug\net8.0\ref\Inheritance and method overidding.dll
